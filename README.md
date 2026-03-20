@@ -21,6 +21,3 @@
   <img src="https://img.shields.io/badge/DevEco%20Studio-D30000?logo=huawei&logoColor=white&style=for-the-badge" />
 </p>
 <br/>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e3ae,100:9be15d&height=120&section=footer" />
-</p>
