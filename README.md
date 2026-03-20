@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9be15d,100:00e3ae&height=190&section=header&text=weichuyi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile%20%F0%9F%8C%BF&descAlignY=60" />
 </p>
 
-<!-- 标题与一句话简介 -->
-<h2 align="center">你好，我是 weichuyi 👋</h2>
 <p align="center">
   我喜欢做 <b>有意思的东西</b>，目前在持续学习与沉淀。
 </p>
