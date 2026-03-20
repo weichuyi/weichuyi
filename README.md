@@ -15,3 +15,44 @@
   <a href="https://github.com/weichuyi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-weichuyi-181717?logo=github&style=for-the-badge"></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=weichuyi&style=for-the-badge&color=00e3ae">
 </p>
+
+<br/>
+
+<!-- 🛠 技术栈可视化 -->
+<h3 align="center">🛠 技术栈</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,py,tensorflow&theme=light" />
+  </a>
+</p>
+
+<br/>
+
+<!-- 📊 GitHub 数据统计 -->
+<h3 align="center">📊 GitHub 数据</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=weichuyi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e3ae&icon_color=9be15d" alt="weichuyi's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weichuyi&theme=tokyonight&hide_border=true&background=0d1117&ring=00e3ae&fire=9be15d" alt="weichuyi's Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weichuyi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e3ae" alt="Top Languages" />
+</p>
+
+<br/>
+
+<!-- 🚀 项目展示 -->
+<h3 align="center">🚀 近期项目</h3>
+<p align="center">
+  <a href="https://github.com/weichuyi/TimeRelics-weichuy1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weichuyi&repo=TimeRelics-weichuy1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e3ae&icon_color=9be15d" />
+  </a>
+</p>
+
+<br/>
+
+<!-- 底部波浪装饰 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e3ae,100:9be15d&height=120&section=footer" />
+</p>
