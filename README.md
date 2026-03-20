@@ -15,35 +15,3 @@
   <a href="https://github.com/weichuyi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-weichuyi-181717?logo=github&style=for-the-badge"></a>
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=weichuyi&style=for-the-badge&color=00e3ae">
 </p>
-
----
-
-## 🧩 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-FFF7ED?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-ECFEFF?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-FEFCBF?style=for-the-badge&logo=javascript&logoColor=323330" />
-  <img src="https://img.shields.io/badge/TypeScript-E0F2FE?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-ECFDF5?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-ECFDF5?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Python-F0F9FF?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Git-FEF2F2?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Linux-F7FEE7?style=for-the-badge&logo=linux&logoColor=000000" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=weichuyi&show_icons=true&hide_title=true&theme=transparent&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weichuyi&layout=compact&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=weichuyi&theme=transparent&hide_border=false" />
-</p>
