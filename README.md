@@ -18,15 +18,6 @@
 
 ---
 
-## 🌿 About me
-
-- 🌱 最近在学：`全栈开发与工程化`
-- 🔭 正在做：`一些小工具 / 个人项目`
-- ✨ 兴趣：`写作 / 开源 / 画画 / 运动`
-- 📫 联系方式：`在 GitHub 上私信我`
-
----
-
 ## 🧩 Tech Stack
 
 <p>
@@ -55,25 +46,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=weichuyi&theme=transparent&hide_border=false" />
-</p>
-
----
-
-## 🗂️ Featured Projects
-
-- ⭐ **项目 A**：敬请期待
-- ⭐ **项目 B**：敬请期待
-- ⭐ **项目 C**：敬请期待
-
----
-
-## 🤝 Connect
-
-<p>
-  <a href="https://github.com/weichuyi"><img src="https://img.shields.io/badge/GitHub-ECFDF5?style=for-the-badge&logo=github&logoColor=181717" /></a>
-</p>
-
-<!-- 底部插画 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e3ae,100:9be15d&height=70&section=footer&fontSize=0" />
 </p>
